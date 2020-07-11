@@ -1,0 +1,28 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  # 1部 仕事
+  - chap-work-00-index.re:
+    # 仕事関係いろいろ
+    - chap-work-dummy.re
+
+
+
+  # 2部 友人
+  - chap-friend-00-index.re:
+    # 友人関係いろいろ
+    - chap-friend-dummy.re
+
+
+
+  # 3部 家族
+  - chap-family-00-index.re:
+    # 家族関係いろいろ
+    - chap-family-dummy.re
+    # 
+    - chap-decision-oyakata.re
+
+POSTDEF:
+  - postscript.re
+  - chap-contributors.re

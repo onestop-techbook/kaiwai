@@ -1,0 +1,30 @@
+review_version: 3.1
+bookname: 100communication
+language: ja
+booktitle: {name: "100Communication", file-as: "ワンハンドレッドコミュニケーション"}
+aut: []
+edt: おやかた
+pbl: 親方Project
+prt: 株式会社？？
+date: 2020-08-27
+history: [["2020-08-27 電子版"]]
+rights: (C) 2020 親方Project
+description: 100通りのコミュニケーション。シチュエーションごとのコミュニケーション方法、アンチパターンなどテーマにした合同誌です
+subject: 100コミュニケーション
+type: ["技術書", "合同誌", ]
+debug: null
+stylesheet: ["style.css"]
+epubversion: 3
+htmlversion: 5
+toclevel: 3
+secnolevel: 3
+toc: true
+cover: null
+titlefile: chap-title.tex
+page_metric: B5
+direction: "ltr"
+epubmaker:
+  htmlext: xhtml
+texstyle: ["reviewmacro"]
+pdfmaker:
+  colophon: true

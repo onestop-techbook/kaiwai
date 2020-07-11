@@ -1,0 +1,13 @@
+box: vvakame/review:3.1
+
+build:
+  steps:
+    - bundle-install
+    - script:
+      name: create pdf
+      code: |
+          cd src
+          review pdfmaker config-print.yml
+    - script:
+      name: output artifacts
+      code: cp src/*.pdf $WERCKER_REPORT_ARTIFACTS_DIR/
