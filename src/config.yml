@@ -1,15 +1,15 @@
 review_version: 3.1
-bookname: 100communication
+bookname: kaiwaibook
 language: ja
-booktitle: {name: "100Communication", file-as: "ワンハンドレッドコミュニケーション"}
+booktitle: {name: "kaiwai", file-as: "kaiwai"}
 aut: []
 edt: おやかた
-pbl: 親方Project
+pbl: 技術同人誌を盛り上げる会
 prt: 株式会社？？
 date: 2020-08-27
 history: [["2020-08-27 電子版"]]
-rights: (C) 2020 親方Project
-description: 100通りのコミュニケーション。シチュエーションごとのコミュニケーション方法、アンチパターンなどテーマにした合同誌です
+rights: (C) 2020 技術書界隈を盛り上げる会
+description: 技術同人誌を盛り上げる会の合同誌です
 subject: 100コミュニケーション
 type: ["技術書", "合同誌", ]
 debug: null

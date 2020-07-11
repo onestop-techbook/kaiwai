@@ -2,25 +2,23 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  # 1部 仕事
+  # 1部 技術同人誌を盛り上げる会とは
   - chap-work-00-index.re:
-    # 仕事関係いろいろ
     - chap-work-dummy.re
 
 
 
-  # 2部 友人
+  # 2部 技術同人誌と私
   - chap-friend-00-index.re:
     # 友人関係いろいろ
     - chap-friend-dummy.re
 
 
 
-  # 3部 家族
-  - chap-family-00-index.re:
-    # 家族関係いろいろ
+  # 3部 同人誌イベント
+  - chap-event-00-index.re:
+    # 同人誌イベントいろいろ
     - chap-family-dummy.re
-    # 
     - chap-decision-oyakata.re
 
 POSTDEF:
