@@ -23,4 +23,4 @@ CHAPS:
 
 POSTDEF:
   - postscript.re
-  - chap-contributors.re
+  - contributors.re
