@@ -21,6 +21,9 @@ CHAPS:
     - chap-family-dummy.re
     - chap-decision-oyakata.re
 
+  ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
+    - chap-knowhowbook.re
+
 POSTDEF:
   - postscript.re
   - contributors.re
