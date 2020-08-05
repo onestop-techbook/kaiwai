@@ -2,18 +2,20 @@ PREDEF:
   - preface.re
 
 CHAPS:
+
+  # 目次(整理済み)
+  # はじめに
+  - introduction.re
+
+  # 目次(未整理)
   # 1部 技術同人誌を盛り上げる会とは
   - chap-work-00-index.re:
     - chap-work-dummy.re
-
-
 
   # 2部 技術同人誌と私
   - chap-friend-00-index.re:
     # 友人関係いろいろ
     - chap-friend-dummy.re
-
-
 
   # 3部 同人誌イベント
   - chap-event-00-index.re:
