@@ -42,7 +42,7 @@ CHAPS:
     # 技術書典申し込み
     - chap-making-request.re
     # マーケティング
-    - chap-making-request.re
+    - chap-making-marketing.re
     # 頒布（ルート・チャンネル）
     - chap-making-channel.re
   
