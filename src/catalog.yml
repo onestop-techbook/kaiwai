@@ -23,6 +23,10 @@ CHAPS:
 
   # 4部 この本のつくりかた
   - chap-making-00-index.re:
+    # 企画・公開作戦会議
+    - chap-making-produce.re
+    # 執筆環境
+    - chap-making-environment.re
   
   ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
     - chap-knowhowbook.re
