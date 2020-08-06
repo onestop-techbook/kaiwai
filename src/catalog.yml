@@ -10,7 +10,8 @@ CHAPS:
 
   # 2部 技術同人誌と私
   - chap-friend-00-index.re:
-    # 友人関係いろいろ
+    # 著者別のページ
+    - chap-friend-viva.re
     - chap-friend-dummy.re
 
   # 3部 同人誌イベント
