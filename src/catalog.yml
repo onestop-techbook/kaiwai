@@ -53,7 +53,7 @@ CHAPS:
     # イベントのコンセプト
     - chap-kaiwai-concept.re
     # イベントのゲストと内容
-    - chap-kaiwai-guest-index.re
+    - chap-kaiwai-guest-index.re:
       # 第1回：ごまなつさん
       - chap-kaiwai-guest-01.re
       # 第2回：fumiyasacさん
