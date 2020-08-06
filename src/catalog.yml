@@ -46,8 +46,16 @@ CHAPS:
     # 頒布（ルート・チャンネル）
     - chap-making-channel.re
 
+  # 3部 技術書界隈を盛り上げるイベント
+  - chap-event-00-index.re:
+    # 同人誌イベント別のページ
+    # 技術書界隈を盛り上げる会
+    - chap-event-kaiwai.re
+    # 推しの技術同人誌を語るBar
+    - chap-event-oshi.re
+    
   # 5部 技術書界隈を盛り上げる会
-  - chap-making-00-index.re:
+  - chap-kaiwai-00-index.re:
     # イベントの始まり
     - chap-kaiwai-start.re
     # イベントのコンセプト
