@@ -29,6 +29,8 @@ CHAPS:
     - chap-making-environment.re
     # 著者集め
     - chap-making-author.re
+    # 目次の検討
+    - chap-making-agenda.re
   
   ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
     - chap-knowhowbook.re
