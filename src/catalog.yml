@@ -3,14 +3,10 @@ PREDEF:
 
 CHAPS:
 
-  # 目次(整理済み)
-  # はじめに
-  - chap-intro.re
-
-  # 目次(未整理)
-  # 1部 技術同人誌を盛り上げる会とは
+  # 目次
+  # 1部 はじめに
   - chap-work-00-index.re:
-    - chap-work-dummy.re
+    - chap-work.re
 
   # 2部 技術同人誌と私
   - chap-friend-00-index.re:
