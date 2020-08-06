@@ -52,7 +52,35 @@ CHAPS:
     - chap-kaiwai-start.re
     # イベントのコンセプト
     - chap-kaiwai-concept.re
-
+    # イベントのゲストと内容
+    - chap-kaiwai-guest-index.re
+      # 第1回：ごまなつさん
+      - chap-kaiwai-guest-01.re
+      # 第2回：fumiyasacさん
+      - chap-kaiwai-guest-02.re
+      # 第3回：かろてんさん
+      - chap-kaiwai-guest-03.re
+      # 第4回：Auth屋さん
+      - chap-kaiwai-guest-04.re
+      # 第5回：まぐろさん
+      - chap-kaiwai-guest-05.re
+      # 第6回：モウフカブールさん
+      - chap-kaiwai-guest-06.re
+      # 第7回：大岡由佳さん
+      - chap-kaiwai-guest-07.re
+      # 第8回：おやかたさん
+      - chap-kaiwai-guest-08.re
+      # 第9回：すみぞめさん
+      - chap-kaiwai-guest-09.re
+      # 第10回：
+      - chap-kaiwai-guest-10.re
+      # 第11回：湊川あいさん
+      - chap-kaiwai-guest-11.re
+    # イベント運営方法
+    - chap-kaiwai-operation.re
+    # イベント運営プラクティス
+    - chap-kaiwai-practice.re
+    
   ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
     - chap-knowhowbook.re
 
