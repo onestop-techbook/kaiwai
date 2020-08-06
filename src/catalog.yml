@@ -31,6 +31,20 @@ CHAPS:
     - chap-making-author.re
     # 目次の検討
     - chap-making-agenda.re
+    # デザイン
+    - chap-making-design.re
+    # 原稿料・デザイン料の決定
+    - chap-making-fee.re
+    # 執筆
+    - chap-making-write.re
+    # 編集
+    - chap-making-edit.re
+    # 技術書典申し込み
+    - chap-making-request.re
+    # マーケティング
+    - chap-making-request.re
+    # 頒布（ルート・チャンネル）
+    - chap-making-channel.re
   
   ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
     - chap-knowhowbook.re
