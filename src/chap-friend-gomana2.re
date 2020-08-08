@@ -2,22 +2,22 @@
 
 //flushright{
 ごまなつ @akrolayer @<br>{}
-just1factory @<br>{}
+ごまなつProject @<br>{}
 技術書界隈を盛り上げる会 #1 ゲスト
 //}
 
 == 著者の紹介
 技術的なものではなく、自分の趣味の延長を書いています。
-* ゲームセンターを楽しむ技術
-* AutoHotKey・Karabiner-Elementsではじめるキーバインド設定
+ * ゲームセンターを楽しむ技術
+ * AutoHotKey・Karabiner-Elementsではじめるキーバインド設定
 
 == 自己紹介
 業務ではWindowsアプリケーションを開発してます。
 業務で学んだことはブログに書いています。
 技術外のこともよくアウトプットしてます。
-* blog: https://gomana2.hatenablog.jp/
-* speekerdeck: https://speakerdeck.com/akrolayer
-* note: https://note.com/gomana2
+ * blog: https://gomana2.hatenablog.jp/
+ * speekerdeck: https://speakerdeck.com/akrolayer
+ * note: https://note.com/gomana2
 
 == 技術同人誌にどこで触れたの？
 初めて触れたのは技術書典4でした。エンジニアが多く集まって本を買う祭りがあることを知って、面白そうだと思い、自分も参加しました。あまりの人の多さに驚愕した覚えがあります。ここにしかない本を求める熱意ある人がこんなにいるんだと感銘を受けました。
