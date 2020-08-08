@@ -26,13 +26,14 @@
         \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/higuyume\\
-        サークル名： growthfaction
+        森一樹 @viva\_tweet\_x https://twitter.com/viva\_tweet\_x\\
+        サークル名： プロジェクトマネージャ保護者会
         \end{minipage}
     \hspace{1ex}
 //}
-人の力で世界を便利にする企業で働いているWebディレクター
-Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
+チームファシリテーター＆アジャイルコーチ。
+みんなに強化魔法をかける人。ふりかえり・チームビルディング・ファシリテーションを軸に、よいチームを作るために社内外で活動中です。ふりかえりの個別相談・ワークショップ・研修や、アジャイルコーチを行っています。
+ふりかえり読本シリーズ・チームビルディング超実践ガイドの著者。SCRUM BOOT CAMP THE BOOK 増補改訂版のコラムニスト。
 　
 //embed{
     \begin{minipage}{.1\linewidth}
