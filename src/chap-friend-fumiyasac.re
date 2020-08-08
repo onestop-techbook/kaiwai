@@ -1,4 +1,4 @@
-= タイトル（いい感じのやつをお願いします）
+= iOSアプリを素敵にする「ちょい足しレシピ」を目指して
 
 //flushright{
 fumiyasac(Fumiya Sakai) @fumiyasac\\just1factory
