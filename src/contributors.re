@@ -23,19 +23,6 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x\\
-        サークル名： プロジェクトマネージャ保護者会・ふりかえり実践会・ふりかえりBoost
-        \end{minipage}
-    \hspace{1ex}
-//}
-
-　
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
