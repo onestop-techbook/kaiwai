@@ -27,7 +27,7 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x\\
-        サークル名： プロジェクトマネージャ保護者会・ふりかえり実践会・ふりかえりBoost
+        サークル名： プロジェクトマネージャ保護者会
         \end{minipage}
     \hspace{1ex}
 //}
