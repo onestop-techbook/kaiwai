@@ -1,4 +1,4 @@
-= 何かいい感じのやつお願いします
+= JupyterとSphinxで作る同人誌
 
 //flushright{
 yugen @tkoyama010 @<br>{}
