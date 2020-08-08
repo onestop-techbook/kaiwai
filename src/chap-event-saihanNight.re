@@ -13,6 +13,8 @@
 
 サークル主が他のサークル主を捕まえて話をする場を作るというのを主眼においています。
 
+技術同人誌再販Night ＃5 2019年11月１日　https://techbook-and-ethanol.connpass.com/event/149245/
+
 == イベント主催者
 
 おやかた＠oyakata2438

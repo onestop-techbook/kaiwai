@@ -26,6 +26,8 @@ CHAPS:
     - chap-event-oshi.re
     # 技術同人誌再販Night
     - chap-event-saihanNight.re
+    # 非公式アフター
+    - chap-event-hikoushikiafter.re
 
   # 4部 この本のつくりかた
   - chap-making-00-index.re:
