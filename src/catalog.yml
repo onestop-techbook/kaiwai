@@ -28,6 +28,8 @@ CHAPS:
     - chap-event-saihanNight.re
     # 非公式アフター
     - chap-event-hikoushikiafter.re
+    # コミックマーケット
+    - chap-event-comiket.re
 
   # 4部 この本のつくりかた
   - chap-making-00-index.re:
