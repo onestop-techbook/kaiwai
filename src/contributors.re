@@ -23,10 +23,10 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x\\
+        KANE @higuyume https://twitter.com/higuyume\\
         サークル名： growthfaction
         \end{minipage}
     \hspace{1ex}
