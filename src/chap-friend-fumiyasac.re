@@ -1,8 +1,7 @@
 = タイトル（いい感じのやつをお願いします）
 
 //flushright{
-fumiyasac(Fumiya Sakai) @fumiyasac@<br>{}
-just1factory
+fumiyasac(Fumiya Sakai) @fumiyasac\\just1factory
 //}
 
 == 著書の紹介
@@ -15,9 +14,9 @@ iOSアプリ開発のUI実装に関するサンプルや知見をまとめた「
 
 == fumiyasacの自己紹介
 
-iOSアプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。
-QiitaやGithubなどでもUI実装に関するサンプルや解説記事を投稿したり、たまに登壇しています。
-アイデアや設計のためのメモや図解を作る時はもっぱら手書き派です。
+iOSアプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。
+QiitaやGithubなどでもUI実装に関するサンプルや解説記事を投稿したり、たまに登壇しています。
+アイデアや設計のためのメモや図解を作る時はもっぱら手書き派です。
 
 - Site: https://just1factory.net/book
 - Qiita: https://qiita.com/fumiyasac@github
