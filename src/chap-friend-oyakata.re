@@ -1,7 +1,8 @@
 = タイトル
 
 //flushright{
-おやかた @oyakata2438
+おやかた @oyakata2438 @<br>{}
+「We LOVE 技術同人誌」編集長
 //}
 
 == 著書の紹介
