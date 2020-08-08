@@ -1,7 +1,8 @@
 = iOSアプリを素敵にする「ちょい足しレシピ」を目指して
 
 //flushright{
-fumiyasac(Fumiya Sakai) @fumiyasac\\just1factory
+fumiyasac(Fumiya Sakai) @fumiyasac
+just1factory
 //}
 
 == 著書の紹介
