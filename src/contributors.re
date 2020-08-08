@@ -19,24 +19,20 @@
 #@# ここに一言コメントを書く
 
 == 技術書界隈を盛り上げる会運営
-
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/viva_tweet_x\\
+        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x\\
         サークル名： プロジェクトマネージャ保護者会・ふりかえり実践会・ふりかえりBoost
         \end{minipage}
     \hspace{1ex}
 //}
-所属: NRI bitLabs、NRI aslead、ふりかえり実践会（代表）、ふりかえりBoost（代表）、プロジェクトマネージャ保護者会（運営）、アジャイルチームを支える会（理事）など
-Role: チームファシリテーター、アジャイルコーチ
-バックグラウンド: CSM®, CAL1®, Management 3.0 Practitioner®, DASA DevOps Fundamental, DevOps Phoenix Project Workshop 認定ファシリテーター
-みんなに強化魔法をかける人。ふりかえり・チームビルディング・ファシリテーションを軸に、よいチームを作るために社内外で活動中です。ふりかえりの個別相談・ワークショップ・研修や、アジャイルコーチを行っています。
-「ふりかえり読本シリーズ」「チームビルディング超実践ガイド」の著者。「SCRUM BOOT CAMP THE BOOK 増補改訂版」のコラムニスト。
 
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
