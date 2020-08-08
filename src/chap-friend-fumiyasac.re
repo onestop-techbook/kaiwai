@@ -18,11 +18,11 @@ iOSアプリのUI実装が好きな元デザイナーからジョブチェンジ
 QiitaやGithubなどでもUI実装に関するサンプルや解説記事を投稿したり、たまに登壇しています。
 アイデアや設計のためのメモや図解を作る時はもっぱら手書き派です。
 
-- Site: https://just1factory.net/book
-- Qiita: https://qiita.com/fumiyasac@github
-- Github: https://github.com/fumiyasac
-- note: https://note.com/fumiyasac
-- slideshare: https://www.slideshare.net/fumiyasakai37
+ * Site: https://just1factory.net/book
+ * Qiita: https://qiita.com/fumiyasac@github
+ * Github: https://github.com/fumiyasac
+ * note: https://note.com/fumiyasac
+ * slideshare: https://www.slideshare.net/fumiyasakai37
 
 == 技術同人誌に触れたきっかけ
 
