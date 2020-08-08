@@ -23,7 +23,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         KANE @higuyume https://twitter.com/viva_tweet_x\\
