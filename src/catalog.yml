@@ -64,9 +64,12 @@ CHAPS:
     - chap-kaiwai-operation.re
     # イベント運営プラクティス
     - chap-kaiwai-practice.re
-    
+
+  # 6部 技術同人誌を書き始めたいあなたに送る参考書インデックス
+  - chap-knowhowbook.re
+
   ## とりあえず、ここの後ろに.reを書き足していってもらえれば。あとで並び替えます。  
-    - chap-knowhowbook.re
+  #- chap-knowhowbook.re
 
 POSTDEF:
   - postscript.re
