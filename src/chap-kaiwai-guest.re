@@ -120,6 +120,12 @@ Sphinxドキュメントを使って翻訳する方法とJupyterを使ってSphi
 この方法を使えば、本のプログラムが誤っているという悲劇を防ぐことができます。
 また、1クリックで環境構築をすることができるため初心者が環境構築でつまずきにくくなっています。
 
+このプレゼンのスライドは動画とともに以下のリンクでご覧になれます。
+
+
+https://docs.google.com/presentation/d/1EzFtvmbNIYsdxsUDUo3ykIBMXPen6YLmkKT_EjcKg0I/edit?usp=sharing
+
+
 === 登壇してみてどうだったか
 
 YoutubeLiveは初めてだったので楽しかったです（修学旅行気分）。
