@@ -110,7 +110,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
        \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
-       なのなの@nano2_aloerina\\
+       なのなの@nano2\_aloerina\\
        サークル名： N4+
        \end{minipage}
    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
