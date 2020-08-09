@@ -102,6 +102,23 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
 //}　
 C#でWindowsアプリケーションを開発してます。自分の趣味だけでも同人誌を書けることを伝えていきたいですね。
 
+　
+
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       なのなの@nano2_aloerina\\
+       サークル名： N4+
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+モバイルアプリ中心だったはずなのに、最近はウェブフロントエンドもやってるソフトウェアエンジニア。
+同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
+最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
+
 
 == 表紙イラスト・デザイン　
 
