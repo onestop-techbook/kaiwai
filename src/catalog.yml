@@ -11,13 +11,23 @@ CHAPS:
   # 2部 技術同人誌と私
   - chap-friend-00-index.re:
     # 著者別のページ
+    # 運営：森
     - chap-friend-viva.re
+    # 運営：KANE
+    - chap-friend-kane.re
+    # 編集長：おやかた
     - chap-friend-oyakata.re
-    - chap-friend-fumiyasac.re
-    - chap-friend-inking.re
-    - chap-friend-yugen.re
-    - chap-friend-llminatoll.re
+    # #1ゲスト：ごまなつ
     - chap-friend-gomana2.re
+    # #2ゲスト：fumiyasac
+    - chap-friend-fumiyasac.re
+    # #9ゲスト：すみぞめ
+    - chap-friend-inking.re
+    # #10ゲスト：yugen
+    - chap-friend-yugen.re
+    # #11ゲスト：湊川あい
+    - chap-friend-llminatoll.re
+    # 他の方は以下に追加をお願いします！
 
   # 3部 技術書界隈を盛り上げるイベント
   - chap-event-00-index.re:
