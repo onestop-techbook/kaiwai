@@ -119,6 +119,19 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
 最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/RkmwJH1I_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
 
 == 表紙イラスト・デザイン　
 
