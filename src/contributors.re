@@ -120,6 +120,21 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 　
 
 //embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 http://webdesign\-manga.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+コメントをお願いします
+
+　
+
+//embed{
    \begin{minipage}{.1\linewidth}
        \centering
        \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
