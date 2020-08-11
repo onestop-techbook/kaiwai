@@ -124,7 +124,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/RkmwJH1I_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/llminato_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         湊川あい @llminatoll https://twitter.com/llminatoll\\
