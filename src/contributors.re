@@ -105,6 +105,36 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 　
 
 //embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/oukayuka_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        大岡由佳 @oukayuka https://twitter.com/oukayuka\\
+        サークル名：くるみ割り書房 http://oukayuka.booth.pm/
+        \end{minipage}
+    \hspace{1ex}
+//}
+コメントをお願いします
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+コメントをお願いします
+
+　
+
+//embed{
    \begin{minipage}{.1\linewidth}
        \centering
        \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
@@ -118,20 +148,6 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 モバイルアプリ中心だったはずなのに、最近はウェブフロントエンドもやってるソフトウェアエンジニア。
 同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
 最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/llminato_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
-        \end{minipage}
-    \hspace{1ex}
-//}
 
 == 表紙イラスト・デザイン　
 
