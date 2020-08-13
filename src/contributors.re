@@ -149,6 +149,22 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
 最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/tkoyama010.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yugen\\      
+        サークル名： GetFEM
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+科学技術計算をお仕事にしているシステムエンジニアです。
+OSSドキュメントの翻訳を共有する機会としてサークル活動をしています。
+これからは、今まで翻訳したドキュメントを材料にオリジナルの同人誌を執筆していく予定です。
+
 == 表紙イラスト・デザイン　
 
 誰？
