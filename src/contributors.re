@@ -126,12 +126,14 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：湊川あいの、わかば家。 http://webdesign\-manga.com/
+        サークル名：湊川あいの、わかば家。 https://llminatoll.booth.pm/
         \end{minipage}
     \hspace{1ex}
 //}
-コメントをお願いします
-
+漫画で楽しく技術を学べる『わかばちゃんと学ぶ』シリーズ著者の湊川（みなとがわ）あいです。
+今回は寄稿にお声がけいただきありがとうございました！
+技術書典9で出すべく、新刊『マンガでわかるサーバー監視入門』執筆中です。
+既刊『マンガでわかるDocker』や『マンガでわかるRuby』もよろしくお願いします！
 　
 
 //embed{
