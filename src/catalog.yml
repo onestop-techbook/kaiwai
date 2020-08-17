@@ -21,6 +21,8 @@ CHAPS:
     - chap-friend-gomana2.re
     # #2ゲスト：fumiyasac
     - chap-friend-fumiyasac.re
+    # #4ゲスト：Auth屋
+    - chap-friend-authyasan.re
     # #5ゲスト：まぐろ
     - chap-friend-tameguro.re
     # #7ゲスト：大岡由佳
@@ -34,7 +36,6 @@ CHAPS:
     # #11ゲスト：湊川あい
     - chap-friend-llminatoll.re
     - chap-friend-gomana2.re
-    - chap-friend-authyasan.re
 
   # 3部 技術書界隈を盛り上げるイベント
   - chap-event-00-index.re:
