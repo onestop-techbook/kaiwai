@@ -105,6 +105,38 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 　
 
 //embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/oukayuka_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        大岡由佳 @oukayuka https://twitter.com/oukayuka\\
+        サークル名：くるみ割り書房 http://oukayuka.booth.pm/
+        \end{minipage}
+    \hspace{1ex}
+//}
+コメントをお願いします
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 https://llminatoll.booth.pm/
+        \end{minipage}
+    \hspace{1ex}
+//}
+漫画で楽しく技術を学べる『わかばちゃんと学ぶ』シリーズ著者の湊川（みなとがわ）あいです。
+今回は寄稿にお声がけいただきありがとうございました！
+技術書典9で出すべく、新刊『マンガでわかるサーバー監視入門』執筆中です。
+既刊『マンガでわかるDocker』や『マンガでわかるRuby』もよろしくお願いします！
+　
+
+//embed{
    \begin{minipage}{.1\linewidth}
        \centering
        \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
@@ -119,6 +151,36 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
 最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/tkoyama010.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yugen\\
+        サークル名： GetFEM
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+科学技術計算をお仕事にしているシステムエンジニアです。
+OSSドキュメントの翻訳を共有する機会としてサークル活動をしています。
+これからは、今まで翻訳したドキュメントを材料にオリジナルの同人誌を執筆していく予定です。
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/tameguro.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        まぐろ @tameguro https://twitter.com/tameguro\\
+        サークル名： まぐろのみぞおち
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+もともとプログラム経験はほぼゼロ、DBなんか何も知らない状態でシステムエンジニアになり今に至る。
+それでも今ではPostgreSQLの技術系同人誌を書いていますから、人生ってわからないものですね。
+商業誌『データベース初心者のためのPostgreSQL教室』が絶賛発売中なのでよろしくね！
 
 == 表紙イラスト・デザイン　
 
