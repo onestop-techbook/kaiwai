@@ -167,6 +167,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 OSSドキュメントの翻訳を共有する機会としてサークル活動をしています。
 これからは、今まで翻訳したドキュメントを材料にオリジナルの同人誌を執筆していく予定です。
 
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -181,6 +182,22 @@ OSSドキュメントの翻訳を共有する機会としてサークル活動�
 もともとプログラム経験はほぼゼロ、DBなんか何も知らない状態でシステムエンジニアになり今に至る。
 それでも今ではPostgreSQLの技術系同人誌を書いていますから、人生ってわからないものですね。
 商業誌『データベース初心者のためのPostgreSQL教室』が絶賛発売中なのでよろしくね！
+
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/authyasan.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Auth屋 @autyhasan https://twitter.com/authyasan\\
+        サークル名：Auth屋 https://authya.booth.pm/
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+OAuth・OpenID Connectについての技術同人誌を書いています。
+最近、ツイッターでOAuthしばりの大喜利をやっていますが、
+だいたい「OAuth完全に理解した」というオチになるので、もう引退しようかと思っています。
 
 == 表紙イラスト・デザイン　
 
