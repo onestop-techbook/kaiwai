@@ -190,7 +190,7 @@ OSSドキュメントの翻訳を共有する機会としてサークル活動�
         \includegraphics[width=.75\linewidth]{images/contributors/authyasan.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Auth屋 @autyhasan https://twitter.com/authyasan\\
+        @authyasan https://twitter.com/authyasan\\
         サークル名：Auth屋 https://authya.booth.pm/
         \end{minipage}
     \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
