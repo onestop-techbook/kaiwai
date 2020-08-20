@@ -199,6 +199,20 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 最近、ツイッターでOAuthしばりの大喜利をやっていますが、
 だいたい「OAuth完全に理解した」というオチになるので、もう引退しようかと思っています。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mofukabur.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ＠mofukaburTech https://twitter.com/mofukaburTech\\
+        サークル名：モウフカブール http://mofukabur.com/
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+モウフカブールは、小笠原種高＠shigetaka256と大澤文孝@sour23を中心としたモウフをかぶる集団です。
+技術部の他に、工作部、電子工作部、写真部、音楽動画部、料理部などがあります。
+
 == 表紙イラスト・デザイン　
 
 誰？
