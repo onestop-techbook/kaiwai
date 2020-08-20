@@ -1,7 +1,8 @@
 = 技術同人誌で僕と握手！
 
 //flushright{
-モウフカブール @mofukaburTech
+モウフカブール @mofukaburTech @<br>{}
+技術書界隈を盛り上げる会 #6 ゲスト
 //}
 
 
