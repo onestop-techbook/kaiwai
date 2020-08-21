@@ -213,6 +213,19 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 モウフカブールは、小笠原種高＠shigetaka256と大澤文孝@sour23を中心としたモウフをかぶる集団です。
 技術部の他に、工作部、電子工作部、写真部、音楽動画部、料理部などがあります。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mofukabur.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ＠onigiri36721865 https://twitter.com/onigiri36721865\\
+        サークル名：おにぎり
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+細々とSalesforce関連のLTしてみたり、Qiita書いたり、コミュニティ活動をお手伝いしたりしています。海苔は巻かない派です。
+
 == 表紙イラスト・デザイン　
 
 誰？
