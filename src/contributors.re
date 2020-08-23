@@ -134,6 +134,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 今回は寄稿にお声がけいただきありがとうございました！
 技術書典9で出すべく、新刊『マンガでわかるサーバー監視入門』執筆中です。
 既刊『マンガでわかるDocker』や『マンガでわかるRuby』もよろしくお願いします！
+
 　
 
 //embed{
@@ -142,16 +143,18 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
        \includegraphics[width=.75\linewidth]{images/contributors/nano2_400x400.jpg}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
-       なのなの@nano2\_aloerina https://twitter.com/nano2\_aloerina\\
+       なのなの @nano2\_aloerina https://twitter.com/nano2\_aloerina\\
        サークル名： N4+
        \end{minipage}
-   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+   \hspace{1ex}
 //}
 モバイルアプリ中心だったはずなのに、最近はウェブフロントエンドもやってるソフトウェアエンジニア。
 同人誌との関係はサークル活動歴以上にスタッフ活動歴の方が長く、
 最近は同人誌即売会スタッフという（技術）同人誌界隈の盛り上げ方を伝えられないかと思う日々。
+技術同人誌ではElectronを使ったデスクトップアプリ開発をテーマに執筆中。
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
