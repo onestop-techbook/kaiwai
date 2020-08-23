@@ -171,6 +171,7 @@ OSSドキュメントの翻訳を共有する機会としてサークル活動�
 これからは、今まで翻訳したドキュメントを材料にオリジナルの同人誌を執筆していく予定です。
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -187,6 +188,7 @@ OSSドキュメントの翻訳を共有する機会としてサークル活動�
 商業誌『データベース初心者のためのPostgreSQL教室』が絶賛発売中なのでよろしくね！
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -202,6 +204,10 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 最近、ツイッターでOAuthしばりの大喜利をやっていますが、
 だいたい「OAuth完全に理解した」というオチになるので、もう引退しようかと思っています。
 
+
+　
+
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -215,6 +221,8 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 //}
 モウフカブールは、小笠原種高＠shigetaka256と大澤文孝@sour23を中心としたモウフをかぶる集団です。
 技術部の他に、工作部、電子工作部、写真部、音楽動画部、料理部などがあります。
+
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -230,10 +238,24 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 細々とSalesforce関連のLTしてみたり、Qiita書いたり、コミュニティ活動をお手伝いしたりしています。海苔は巻かない派です。
 
 == 表紙イラスト・デザイン　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら @nabe\_\_kurage https://twitter.com/nabe\_\_kurage/\\
+        サークル名：たぬてっく
+        \end{minipage}
+    \hspace{1ex}
+//}
+なべくらなべくら
 
-誰？
 
-役割ごとにタグ作るもアリかな。
+
+
+　
+
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
