@@ -227,7 +227,7 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/mofukabur.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/oniginy_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ＠onigiri36721865 https://twitter.com/onigiri36721865\\
