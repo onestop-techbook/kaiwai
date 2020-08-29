@@ -11,11 +11,13 @@
 業務ではWindowsアプリケーションを開発してます。
 業務で学んだことはブログに書いています。
 技術外のこともよくアウトプットしてます。
+
  * blog: https://gomana2.hatenablog.jp/
  * speekerdeck: https://speakerdeck.com/akrolayer
  * note: https://note.com/gomana2
 
 書いた技術同人誌はこちらです。
+
  * ゲームセンターを楽しむ技術
  * AutoHotKey・Karabiner-Elementsではじめるキーバインド設定
 
