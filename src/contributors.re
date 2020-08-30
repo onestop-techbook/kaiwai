@@ -104,7 +104,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 
 　
 
-//embed{
+//embed{78y
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/oukayuka_400x400.jpg}
@@ -115,7 +115,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
         \end{minipage}
     \hspace{1ex}
 //}
-コメントをお願いします
+「りあクト！」シリーズの著者です。「プロ同人作家」と名乗るとエロの人だと思われそうで、肩書きは常に悩ましいです。
 
 　
 
