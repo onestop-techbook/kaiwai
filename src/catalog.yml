@@ -52,6 +52,8 @@ CHAPS:
     - chap-event-hikoushikiafter.re
     # コミックマーケット
     - chap-event-comiket.re
+    # ギポタル
+    - chap-event-gipotal.re
 
   # 4部 この本のつくりかた
   - chap-making-00-index.re:
