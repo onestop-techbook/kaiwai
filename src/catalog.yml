@@ -93,6 +93,7 @@ CHAPS:
 
   # 6部 技術同人誌を書き始るために
   - chap-knowhowbook-00-index.re:
+    - chap-knowhowtopics.re
     # 技術同人誌を書き始めたいあなたに送る参考書インデックス
     - chap-knowhowbook.re
 
