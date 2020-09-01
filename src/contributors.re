@@ -104,7 +104,7 @@ C#でWindowsアプリケーションを開発してます。自分の趣味だ�
 
 　
 
-//embed{78y
+//embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/oukayuka_400x400.jpg}
