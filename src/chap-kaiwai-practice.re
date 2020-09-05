@@ -87,8 +87,7 @@ OBSを利用すると、リッチな配信画面を作成することが可能�
  * ゲスト宣伝
  * 運営からのお知らせ
 
-//image[chap-kaiwai-practice/display.png]["OBSから流している画面構成"]{
-//}
+//image[chap-kaiwai-practice/display]["OBSから流している画面構成"]{//}
 
 === Twitterでの実況＋拾う
 
