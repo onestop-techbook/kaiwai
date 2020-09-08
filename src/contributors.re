@@ -240,6 +240,21 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 //}
 細々とSalesforce関連のLTしてみたり、Qiita書いたり、コミュニティ活動をお手伝いしたりしています。海苔は巻かない派です。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nanami_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        七海 @nanami\_seisaku https://twitter.com/nanami\_seisaku\\
+        サークル名： 七海周遊記
+        \end{minipage}
+    \hspace{1ex}
+//}
+マイコンを使ったライフハックと音ゲー制作に興味がある大学院生です。Twitterを毎日動かすことが目標です。
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
