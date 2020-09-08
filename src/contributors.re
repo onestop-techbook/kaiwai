@@ -245,7 +245,7 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/nanami_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/nanami_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         七海 @nanami\_seisaku https://twitter.com/nanami\_seisaku\\
