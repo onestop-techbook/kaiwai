@@ -84,26 +84,26 @@
 
 まずは、なべくらさんにデザインのラフを作っていただき、イメージを固めます。
 
-//image[chap-making-design/cover_rough.jpg]["デザインラフ"]
+//image[chap-making-design/cover_rough]["デザインラフ"]
 
 この段階で「すてき」しかコメントが出てきませんでした。すてき。
 次は、色のイメージです。まずは4色のパターンを出していただきました。
 
-//image[chap-making-design/cover_color4.jpg]["4色のパターン"]
+//image[chap-making-design/cover_color4]["4色のパターン"]
 
 イメージはオレンジで合意し、オレンジの色身を調整します。
 オレンジにもいくつも色がありますので、色を何パターンか実際に入れて作っていただきます。
 
-//image[chap-making-design/color_jis.jpg]["色の種類はいろいろ"]
+//image[chap-making-design/color_jis]["色の種類はいろいろ"]
 
 この中から、ゴールデンイエロー、オレンジ、こうじ色で3色作ってもらい、比較したうえで、ゴールデンイエローに決めました。
 
-//image[chap-making-design/cover_golden.jpg]["ゴールデンイエローのデザイン"]
+//image[chap-making-design/cover_golden]["ゴールデンイエローのデザイン"]
 
 === デザインの確定
 
 そして、なべくらさんの手によって、表紙にタイトルを入れたり、背景をいじっていただき、完成です！
 何冊本を作っても、この表紙が出来上がってきたタイミングはわくわくしますね！
 
-//image[chap-making-design/cover.jpg]["表紙"]
-//image[chap-making-design/backcover.jpg]["裏表紙"]
+//image[chap-making-design/cover]["表紙"]
+//image[chap-making-design/backcover]["裏表紙"]
