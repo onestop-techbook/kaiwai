@@ -53,6 +53,8 @@ CHAPS:
     - chap-event-hikoushikiafter.re
     # コミックマーケット
     - chap-event-comiket.re
+    # 銭けっと
+    - chap-event-zeniket.re
     # ギポタル
     - chap-event-gipotal.re
 
