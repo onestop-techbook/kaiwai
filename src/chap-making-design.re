@@ -41,7 +41,7 @@
 
 このようなデザインのイメージを伝えた結果、なべくらさんよりデザイン案を4つ出していただきました。
 
-//image[chap-making-design/design_4plan.jpg]["4つのデザイン案"]
+//image[chap-making-design/design_4plan]["4つのデザイン案"]
 
 === デザイン案のベース決め
 
