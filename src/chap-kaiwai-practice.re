@@ -81,9 +81,7 @@ YouTubeLiveを始めるまでの流れ
 配信ができるようになったら、テストで配信をしてみます。
 配信の設定を後述するOBSへ読み込ませる必要があるため、配信画面で設定を確認します。
 
-
-
-
+//image[chap-kaiwai-practice/iamge1]["OBSへ設定する項目"]
 
 === OBS
 技術書界隈を盛り上げる会の配信では、Open Broadcaster Software®️（以下、OBS）を利用して配信をしています。
