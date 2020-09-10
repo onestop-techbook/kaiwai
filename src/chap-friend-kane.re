@@ -1,4 +1,4 @@
-= タイトル
+= 技術書界隈が好きだから本をかいているだけ
 
 //flushright{
 KANE @higuyume @<br>{}
