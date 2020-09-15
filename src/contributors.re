@@ -260,7 +260,7 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/ariaki.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/ariaki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ariaki @ariaki4dev https://twitter.com/ariaki4dev/\\
@@ -268,7 +268,9 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
     \hspace{1ex}
 //}
 都内でWeb系企業のテックリードをする傍ら、「技術書同人誌博覧会」や「エンジニアの登壇を応援する会」などのコミュニティ都営を運営しています。エンジニアの成長を支援することで、社会がより便利で良いものになっていけばと思い、活動を続けています。
+
 == 表紙イラスト・デザイン　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
