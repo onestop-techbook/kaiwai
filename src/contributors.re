@@ -48,7 +48,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-スクラムマスターやPMOといった、人を支援したり、人と人の"間"に入り、"場"を円滑に回すお仕事をする人。
+スクラムマスターやPMOといった、人を支援したり、人と人の“間”に入り、“場”を円滑に回すお仕事をする人。
 Podcastを生やす妖（精｜怪）として、Podcastを通したアウトプットの素晴らしさを啓蒙しています。
 最近は、PodcastだけではなくYouTubeなどにも進出して、配信者としても活動中！
 オンラインになっても皆さんとの繋がりを作り続けていけたら嬉しいです。
@@ -217,12 +217,12 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
         \includegraphics[width=.75\linewidth]{images/contributors/mofukabur.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ＠mofukaburTech https://twitter.com/mofukaburTech\\
+        @mofukaburTech https://twitter.com/mofukaburTech\\
         サークル名：モウフカブール http://mofukabur.com/
         \end{minipage}
     \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
 //}
-モウフカブールは、小笠原種高＠shigetaka256と大澤文孝@sour23を中心としたモウフをかぶる集団です。
+モウフカブールは、小笠原種高@shigetaka256と大澤文孝@sour23を中心としたモウフをかぶる集団です。
 技術部の他に、工作部、電子工作部、写真部、音楽動画部、料理部などがあります。
 
 　
@@ -267,7 +267,23 @@ OAuth・OpenID Connectについての技術同人誌を書いています。
         \end{minipage}
     \hspace{1ex}
 //}
-都内でWeb系企業のテックリードをする傍ら、「技術書同人誌博覧会」や「エンジニアの登壇を応援する会」などのコミュニティ都営を運営しています。エンジニアの成長を支援することで、社会がより便利で良いものになっていけばと思い、活動を続けています。
+都内でWeb系企業のテックリードをする傍ら、「技術書同人誌博覧会」や「エンジニアの登壇を応援する会」などのコミュニティを運営しています。エンジニアの成長を支援することで、社会がより便利で良いものになっていけばと思い、活動を続けています。
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/inking.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        すみぞめ @inking https://twitter.com/inking/\\
+        サークル名：ink-dimension
+        \end{minipage}
+    \hspace{1ex}
+//}
+ふしぎないきもの。コミケによくいる。職業・経歴・言動・思想が不思議。フリーのDTPデザイナしながら二次創作をしています。
+今回は校正を担当。同人誌は勢いで書くから校正用に静かな人格を持っているとよいとおもいました。
 
 == 表紙イラスト・デザイン　
 
